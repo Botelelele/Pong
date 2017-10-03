@@ -1,6 +1,6 @@
 # Pong
-First time SDL2
-Nothing special, just something to understand how SDL 2.0 works.
+First time SDL2.
+Nothing special, just something that helped me to understand how SDL 2.0 works.
 Key bindings:
 ESC-Quit
 R-restart level
