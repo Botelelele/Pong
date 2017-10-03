@@ -9,4 +9,4 @@ D and Right Arrow-right
 Plans:
 In future i'll try to add menu, options, singleplayer and multiplayer online.
 
-I'd appreciate any advices and critique.
+I'd appreciate any advices or critique.
